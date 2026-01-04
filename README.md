@@ -1,7 +1,6 @@
 <h1>Kodluyoruz Ilk Repo</h1>
 
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
-Installation
 
 <img src="image.png">
 
